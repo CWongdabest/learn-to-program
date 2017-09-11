@@ -1,0 +1,14 @@
+srand 1990
+puts (rand(100))
+srand 1990
+puts (rand(100))
+srand 1989
+puts (rand(100))
+puts (rand(100))
+puts (rand(100))
+puts (rand(100))
+srand 1989
+puts (rand(100))
+puts (rand(100))
+puts (rand(100))
+puts (rand(100))
